@@ -1,1 +1,1 @@
-This is a simple To Do app created using TDD (RSpec and Capybars). I created it following the ThoughtBot Prime TDD course.
+This is a simple To Do app created using TDD (RSpec and Capybara). I created it following the ThoughtBot Prime TDD course.
