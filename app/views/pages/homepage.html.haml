@@ -1,2 +1,7 @@
 %p{:'data-role' => 'description'}
   This is an app to manage todos.
+
+= form_for :session, url: session_path do |form|
+  = form.label :email_address
+  = form.text_field :email_address
+  = form.submit "Sign In"
